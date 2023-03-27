@@ -1,0 +1,14 @@
+-------------------------------------------------------
+ENGLISH                     GERMAN
+-------------------------------------------------------
+Hello                       Hallo
+How are you doing           Wie geht es dir
+Good Morning                Guten Morgen
+Good Night                  Gute Nacht
+Hello World                 Hallo Welt
+test output                 Testausgabe
+crash course                crashkurs
+Here is the title           Hier steht der Titel
+now takes up more space     beahsprucht nun mehr Platz
+This is our logo            Das ist unser Logo
+
